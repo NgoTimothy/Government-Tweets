@@ -1,0 +1,3 @@
+Indivdual Work Log: Timothy Ngo
+02/20/2019: ER diagram created by hand
+02/23/2019: First verison of ER diagram typed in draw.io 
