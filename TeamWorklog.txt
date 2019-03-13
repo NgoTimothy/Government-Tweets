@@ -6,17 +6,24 @@ Week of Feb. 18, 2019
     Typed ER diagram 
     Submitted ER diagram for revision
   Lucas's task:
+    Wrote ER diagram
+    Typed ER diagram 
   
 Week of Feb. 25, 2019
   Tim's task:
     Revise ER diagram
   Lucas's task: 
+    Check Tim's revisions
 
 Week of March 5th, 2019
   Tim's task: 
     Complete his part of assignment 3
   Lucas's task:
+    Start assignment 3 question 3
   
 Week of March 13th, 2019
   Tim's task:
     Implement Relational Schemas
+  Lucas's task:
+    Finish assignment 3 question 3
+    Begin part 2 of the project
