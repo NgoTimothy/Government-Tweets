@@ -1,1 +1,3 @@
-
+02/20/2019: ER diagram created by hand
+02/20/2019: First verison of ER diagram typed in lucid chart 
+03/12/2019: Started part 3 of assignment 3
