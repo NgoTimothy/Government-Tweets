@@ -9,4 +9,14 @@ Week of Feb. 18, 2019
   
 Week of Feb. 25, 2019
   Tim's task:
-    Revise ER daigram
+    Revise ER diagram
+  Lucas's task: 
+
+Week of March 5th, 2019
+  Tim's task: 
+    Complete his part of assignment 3
+  Lucas's task:
+  
+Week of March 13th, 2019
+  Tim's task:
+    Implement Relational Schemas
