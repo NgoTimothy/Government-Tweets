@@ -6,7 +6,7 @@ drop table if exists Tweet;
 
 create table Tweet (
 tweetID integer,
-retweeted bool,
+retweeted boolean,
 retweetCount integer,
 createdAt timestamp,
 day integer,
