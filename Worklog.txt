@@ -2,4 +2,6 @@ Indivdual Work Log: Timothy Ngo
 02/20/2019: ER diagram created by hand
 02/23/2019: First verison of ER diagram typed in draw.io 
             Sent in first draft for revisions
-03/01/2019: Revised ER Diagram to match requirments 
+03/01/2019: Revised ER Diagram to match requirements
+03/09/2019: Finished my part of assignment 3 to learn execution plans and optimizing sql queries 
+03/13/2019: Started to implement relational schemas 
