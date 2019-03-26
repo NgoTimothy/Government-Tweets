@@ -5,3 +5,5 @@ Indivdual Work Log: Timothy Ngo
 03/01/2019: Revised ER Diagram to match requirements
 03/09/2019: Finished my part of assignment 3 to learn execution plans and optimizing sql queries 
 03/13/2019: Started to implement relational schemas 
+03/26/2019: Place the schemas in the group20 database
+            Started writing queries 
