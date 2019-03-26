@@ -1,6 +1,6 @@
 -- Author Timothy Ngo
 
-use tngo;
+use group20;
 
 drop table if exists Tweet;
 
@@ -35,9 +35,9 @@ drop table if exists HashUsed;
 create table HashUsed (
 twitID integer,
 hashTxt varchar(50),
-primary key(twitID, hashTxt)
+primary key(twitID, hashTxt),
 foreign key(twitID) references Tweet(tweetID),
-foreign key(hasTxt) references Hashtag(hashText)
+foreign key(hashTxt) references Hashtag(hashText)
 );
 
 drop table if exists URLAppears;
@@ -45,7 +45,7 @@ drop table if exists URLAppears;
 create table URLAppears (
 twitID integer,
 url varchar(50),
-primary key(twitID, url)
+primary key(twitID, url),
 foreign key(twitID) references Tweet(tweetID),
 foreign key(url) references URL(link)
 );
