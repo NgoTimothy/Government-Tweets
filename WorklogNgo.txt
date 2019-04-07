@@ -7,3 +7,6 @@ Indivdual Work Log: Timothy Ngo
 03/13/2019: Started to implement relational schemas 
 03/26/2019: Place the schemas in the group20 database
             Started writing queries 
+04/04/2019: Started assignment 4 to learn more about JSP
+04/05/2019: Finished assignment 4 //NOTE will push these once past assignment date
+04/07/2019: Started implementing more queries 
