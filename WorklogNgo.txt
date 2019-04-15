@@ -10,3 +10,4 @@ Indivdual Work Log: Timothy Ngo
 04/04/2019: Started assignment 4 to learn more about JSP
 04/05/2019: Finished assignment 4 //NOTE will push these once past assignment date
 04/07/2019: Started implementing more queries 
+04/15/2018: Debugged queries 
