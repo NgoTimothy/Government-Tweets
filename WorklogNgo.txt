@@ -10,4 +10,11 @@ Indivdual Work Log: Timothy Ngo
 04/04/2019: Started assignment 4 to learn more about JSP
 04/05/2019: Finished assignment 4 //NOTE will push these once past assignment date
 04/07/2019: Started implementing more queries 
-04/15/2018: Debugged queries 
+04/15/2019: Debugged queries 
+04/19/2019: Started JSP
+04/20/2019: Created login JSP page
+04/24/2019: Created JSP page for users to pick a query
+04/25/2019: Table for database users was created
+            Refactored the login and JSP pages to match the PDF requirements 
+04/27/2019: Created JSP pages to get inputs from user for each query
+04/28/2019: Created some stored procedures and a results jsp page
