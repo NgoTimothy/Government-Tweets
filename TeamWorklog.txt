@@ -39,3 +39,6 @@ Week of April 22nd, 2019
     Refactor login JSP page
     
 Week of April 29th, 2019
+  Tim's task:
+     Create stored procedures
+     Finish JSP pages
