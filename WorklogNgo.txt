@@ -17,4 +17,8 @@ Indivdual Work Log: Timothy Ngo
 04/25/2019: Table for database users was created
             Refactored the login and JSP pages to match the PDF requirements 
 04/27/2019: Created JSP pages to get inputs from user for each query
-04/28/2019: Created some stored procedures and a results jsp page
+04/28/2019: Created some stored procedures 
+            Created a results jsp page
+04/29/2019: Made more stored procedures 
+            Debugged delete stored procedure 
+            Created variables to store inputs from inputs page
