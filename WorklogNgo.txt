@@ -22,3 +22,6 @@ Indivdual Work Log: Timothy Ngo
 04/29/2019: Made more stored procedures 
             Debugged delete stored procedure 
             Created variables to store inputs from inputs page
+05/01/2019: Wrote and tested insert and delete user stored procedures'
+05/02/2019: Debugged Q3 
+            Created stored procedure for q3 and q15
