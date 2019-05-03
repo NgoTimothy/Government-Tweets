@@ -1,4 +1,23 @@
+Indivdual Work Log: Lucas Knoll
 02/20/2019: ER diagram created by hand
 02/20/2019: First verison of ER diagram typed in lucid chart 
 03/12/2019: Started my part assignment 3
 03/12/2019: Uploaded 2016 tweets.csv to group VM
+03/13/2019: Started to implement relational schemas 
+03/28/2019: Created new schema for DB and uploaded 2016 and 2017 data 
+04/07/2019: Started working on queries for part 2
+04/15/2019: Continued to work, debug and optimize queries
+04/19/2019: Started reaming 4 queries
+04/20/2019: Finsihed 2 of remaining queries
+04/24/2019: Refactored the database
+04/25/2019: Unable to create Primary keys for certain tables because of repeat data in csv files
+04/27/2019: created new tables in database and set all primary keys and foreign keys before uploading data
+04/28/2019: Uploaded only 2016 data into all 4 tables
+04/29/2019: Optimized 2 finished queries, still trying to finish remaing two queries
+05/01/2019: Finsihed One of the remaing queries
+05/02/2019: More database problems.  Had to have group20b data created and add in users table
+            Ran into problems with finsihed query where it was only returing one column not all
+            Q15 is still too slow and times out
+05/03/2019: Fixed Q23 by adding group by statement
+            Fixed Q15 runtime
+            Finished optimizing all queries and database data problems solved
