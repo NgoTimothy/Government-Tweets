@@ -25,3 +25,4 @@ Indivdual Work Log: Timothy Ngo
 05/01/2019: Wrote and tested insert and delete user stored procedures'
 05/02/2019: Debugged Q3 
             Created stored procedure for q3 and q15
+05/03/2019: Finished creating all stored procedures and printing results
