@@ -31,14 +31,22 @@ Week of March 13th, 2019
 Week of April 15th, 2019
   Tim's task:
     Complete 2 queries
+  Lucas's task:
+    Complete 2 queries
     
 Week of April 22nd, 2019
   Tim's task:
     Complete inputs JSP page
     Create JSP page to select a query
     Refactor login JSP page
+  Lucas's task:
+     Finish the remaining queries
+     Optimize finsihed Queries
     
 Week of April 29th, 2019
   Tim's task:
      Create stored procedures
      Finish JSP pages
+  Lucas's task:
+      Finish optimizing the remaining queries
+      Finish optimization table
